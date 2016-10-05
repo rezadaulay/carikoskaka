@@ -1,8 +1,9 @@
+<img src="logo.png" align="right" />
 # Carikoskaka
 
 Aplikasi ini sebuah aplikasi sederhana info rumah kost android berbasis android yang terhubung ke web server.
 
-*This application is a simple application information-based android android boarding house that is connected to the web server.*
+*This is a simple android application house rent information ,this app connected to api.*
 
 ### Include :
   - Listview with infinite scroll

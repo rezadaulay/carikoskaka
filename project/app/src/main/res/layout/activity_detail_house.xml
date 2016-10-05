@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_left_margin"
+    android:paddingRight="@dimen/activity_right_margin"
+    android:paddingTop="@dimen/activity_top_margin"
+    android:paddingBottom="@dimen/activity_bottom_margin"
+    tools:context="com.carikoskaka.carikos.MainActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent" android:layout_height="fill_parent"
+        android:layout_above="@+id/myFooter">
+        <!-- Your scroll container -->
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <com.daimajia.slider.library.SliderLayout
+        android:id="@+id/detail_image_slider"
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        />
+
+    <ImageView
+        android:id="@+id/detail_image_single"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:scaleType="fitCenter"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp"
+    >
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_price"
+            android:textSize="20dp"
+            android:text=""
+            android:textIsSelectable="false" />
+
+        <View
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/smoke" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_dimention"
+            android:text=""
+            android:textSize="15dp"
+            android:textIsSelectable="false" />
+
+
+        <View
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/smoke" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_facilities"
+            android:text=""
+            android:textSize="15dp"
+            android:textIsSelectable="false" />
+
+
+        <View
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/smoke" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_street"
+            android:text=""
+            android:textSize="15dp"
+            android:textIsSelectable="false" />
+
+
+        <View
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/smoke" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_city"
+            android:text=""
+            android:textSize="15dp"
+            android:textIsSelectable="false" />
+
+
+        <View
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/smoke" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_province"
+            android:text=""
+            android:textSize="15dp"
+            android:textIsSelectable="false" />
+
+
+        <View
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:background="@color/smoke" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_description"
+            android:text=""
+            android:textIsSelectable="false" />
+    </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="@color/smoke"
+            >
+
+
+            <TextView
+                android:paddingBottom="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/owner_name"
+                android:text=""
+                android:textSize="15dp"
+                android:textIsSelectable="false" />
+
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1dp"
+                android:background="@color/white" />
+
+
+            <TextView
+                android:paddingTop="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/owner_phone"
+                android:text=""
+                android:textSize="15dp"
+                android:textIsSelectable="false" />
+
+        </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
+
+    <LinearLayout android:id="@+id/myFooter"
+        android:background="@color/black"
+        android:layout_alignParentBottom="true" android:layout_height="wrap_content"
+        android:layout_width="fill_parent">
+        <!-- Your buttons -->
+
+
+        <Button
+            android:id="@+id/bb_menu_call"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Telepon"
+            android:textColor="@color/white"
+            android:textSize="10dp"
+            android:drawableTop="@drawable/ic_call"
+            android:background="@color/black"
+            android:paddingTop="7dp"
+             />
+
+        <View
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="@color/white" />
+
+        <Button
+            android:id="@+id/bb_menu_map"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Peta"
+            android:textColor="@color/white"
+            android:textSize="10dp"
+            android:drawableTop="@drawable/ic_maps_pin_drop"
+            android:background="@color/black"
+            android:paddingTop="7dp"
+        />
+
+    </LinearLayout>
+
+    <!--
+<LinearLayout
+android:layout_width="fill_parent"
+android:layout_height=""
+android:orientation="horizontal"
+android:gravity="center"
+    android:layout_alignParentBottom="true"
+    android:background="@color/holo_blue_dark"
+    >
+
+<Button
+    android:id="@+id/button1"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="ButtonA" />
+
+<Button
+    android:id="@+id/button2"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="ButtonB" />
+
+<Button
+    android:id="@+id/button3"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:text="ButtonC" />
+</LinearLayout>
+-->
+    </RelativeLayout>

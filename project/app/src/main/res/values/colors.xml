@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="blue">#c4112f</color>
+    <color name="orange">#E07D2F</color>
+    <color name="white">#ffffff</color>
+    <color name="smoke">#ECECEC</color>
+    <color name="red">#c4112f</color>
+    <color name="skyBlue">#03A9F4</color>
+    <color name="lightRed">#ee0d33</color>
+    <!-- warna image slider -->
+    <color name="holo_blue_dark">#ff0099cc</color>
+    <color name="view_divider_color">#BABABA</color>
+    <color name="view_divider_color_2">#DADADA</color>
+
+</resources>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_73aa2e9ad0562bd18313f9b03a91e931d9618a07\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="eaa9ec36795921d3d1a838f81de0b1a537a684c3">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_4766fedc6e1cde5c92e8b18a1108af830d902035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_b9459dcbf81fbf85679793196dd5213b3cba136f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6d328ac6d7af96c7acc71ae297fb5a680c329d57">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.roughike-bottom-bar-1.4.0_4e8d200cc6cd527bf7f8d688dee9ed0b33b28c04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_cd7ce976f476a35412429b560610630ea2b5a037\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_4aaaee3daa6a6b961f6a6dd67c9f8f8b5c68225c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezad\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_a94fddb4fca0b7aff82553a2225b0edbb9961f33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_8eb74314d22b15eae6e1cd94f92368feebd1c33d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\percent\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="928b73afabcd116944e9487771d4121168eac1a4">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-percent-22.2.0_ea85c6b9d7b98609ec7e2acd73b592bd008a0786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_273ca5cf05b573cf9c95e854053728604e591074\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_939b171365e68a488ca742187b6e836919f4daf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\io.apptik.widget\multislider\1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="884d91b75a47666f29f1c8fde21fe2ced8fb1932">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.apptik.widget-multislider-1.2_9ce520a1be5b85c8a65cba109b5131c18f642413\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezad\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_aeda434bbf9e88b0bf26b634b1e248227768a5f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="75f412899ff6a395a92ab0d57b753e910a1edd48">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_e70d6689315f049d63cfd4918f8c6999cde60662\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\softwares\carikoskaka\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_7283b109d097b53533e76f4841a1aee0e2900ad6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\rezad\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\softwares\carikoskaka\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_15401b9c5e6bdd00bf4edaad4b16432999ef8496\classes.dex" />
+    </item>
+
+</items>

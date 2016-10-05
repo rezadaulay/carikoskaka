@@ -1,0 +1,63 @@
+<android.support.percent.PercentRelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+	 android:background="@color/white">
+	<ImageView
+   		android:id="@+id/img_item"
+		app:layout_widthPercent="35%"
+		app:layout_marginTopPercent="0%"
+		app:layout_marginLeftPercent="0%"
+   		android:layout_height="wrap_content"
+		android:adjustViewBounds="true"
+		android:paddingLeft="0dp"
+		android:paddingRight="5dp"
+		android:paddingBottom="0dp"
+		android:paddingTop="0dp" />
+	<TextView android:id="@+id/txt_item_title"
+		android:textSize="16sp"
+		android:textColor="@color/black"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_toRightOf="@id/img_item"/>
+
+
+	<LinearLayout
+		xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_toRightOf="@id/img_item"
+		android:orientation="vertical"
+		android:layout_alignParentBottom="true"
+		android:paddingRight="5dp"
+		android:paddingBottom="1dp"
+		android:gravity="bottom">
+
+
+		<TextView android:id="@+id/txt_item_harga"
+			android:textSize="18dp"
+			android:textStyle="bold"
+			android:textColor="@color/orange"
+			android:layout_height="wrap_content"
+			android:paddingBottom="2dp"
+			android:layout_width="fill_parent" />
+
+		<View
+			android:layout_width="fill_parent"
+			android:layout_height="1dp"
+			android:background="@color/smoke" />
+
+
+		<TextView android:id="@+id/txt_item_lokasi"
+			android:textSize="12sp"
+			android:paddingTop="2dp"
+			android:textColor="@color/black"
+			android:layout_height="wrap_content"
+			android:layout_width="fill_parent"
+			android:layout_below="@id/txt_item_harga"	/>
+
+
+	</LinearLayout>
+
+</android.support.percent.PercentRelativeLayout>

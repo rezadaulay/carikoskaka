@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bb_menu_call"
+        android:icon="@drawable/ic_call"
+        android:title="Telepon" />
+    <item
+        android:id="@+id/bb_menu_map"
+        android:icon="@drawable/ic_maps_pin_drop"
+        android:title="Map" />
+    <item
+        android:id="@+id/bb_menu_share"
+        android:icon="@drawable/ic_navigation_more"
+        android:title="Share" />
+</menu>

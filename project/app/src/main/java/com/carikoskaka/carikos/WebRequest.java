@@ -17,9 +17,7 @@ import javax.net.ssl.HttpsURLConnection;
 
 public class WebRequest {
     static String response = null;
-    //static String baseUrl = "http://192.168.5.219/carikoskaka/public/api/v1/";
     static String baseUrl = "http://192.168.201.1/carikoskaka/public/api/v1/";
-    //static String baseUrl = "http://demo.masbroweb.com/carikos/public/api/v1/";
     public final static int GET = 1;
     public final static int POST = 2;
 
